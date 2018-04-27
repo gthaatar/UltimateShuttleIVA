@@ -18,6 +18,12 @@ BDB - https://forum.kerbalspaceprogram.com/index.php?/topic/122020-14x-bluedog-d
 
 Module Manager
 
+Required for full functionality in IVA:
+
+MechJEB
+Kerbal Alarm Clock
+Chatterer
+
 ---
 Installation:
 
