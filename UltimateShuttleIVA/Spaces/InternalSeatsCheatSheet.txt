@@ -1,0 +1,41 @@
+MODULE 
+{
+  name = InternalSeat
+  seatTransformName = CMDSeat
+  allowCrewHelmet = false
+}
+
+MODULE 
+{
+  name = InternalSeat
+  seatTransformName = PLTSeat
+  allowCrewHelmet = false
+}
+
+MODULE 
+{
+  name = InternalSeat
+  seatTransformName = CMDPas1
+  allowCrewHelmet = false
+}
+
+MODULE 
+{
+  name = InternalSeat
+  seatTransformName = CMDPas2
+  allowCrewHelmet = false
+}
+
+MODULE 
+{
+  name = InternalSeat
+  seatTransformName = PLTPas1
+  allowCrewHelmet = false
+}
+
+MODULE 
+{
+  name = InternalSeat
+  seatTransformName = PLTPas2
+  allowCrewHelmet = false
+}
