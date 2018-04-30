@@ -30,5 +30,18 @@ Installation:
 Presuming you have the requirements in place, drag and drop UltimateShuttleIVA into your Gamedata.  The MM Patch within will set up the internal for the Mk3 Cockpit, and set its crew capacity to 6. 
 
 ---
+CHANGELONG:
+
+V0.01: Initial Testing Release
+v0.02: Second Testing Relz.
+	*Fixed MM Patch, killing IVA bugs across game.
+	*Added Overlay, allowing for better cutaway in external views.
+	*Reconfigured Panels - Comms Panel moved center console. Docking Panel added X-pointer. More useful in-game than a simple RCS hand controller. Turn Coordinator deleted, replaced with Landing Gear Control section. Left and Right most panels angled inward.
+	*Adjusted HUD placements. Provides better downward FOV out of window
+	*Deleted redundant Fuel/Ox gauges on center Gauge panels. Replaced with SRB Gauges
+	*New Label props added.
+	*Commander and Pilot Seats moved backwards in preparation for Transform update - KNOWN ISSUE: They do not line up with the transforms, they have not been edited yet.
+	*Further refinement of prop placement across the board
+	
 
 This is probably where I put a bunch of legal and credit crap. I'm not worried about it right now.
