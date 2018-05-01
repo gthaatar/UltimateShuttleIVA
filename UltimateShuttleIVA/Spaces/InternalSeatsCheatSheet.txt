@@ -39,3 +39,84 @@ MODULE
   seatTransformName = PLTPas2
   allowCrewHelmet = false
 }
+
+	MODULE
+	{
+		name = InternalCameraSwitch
+		colliderTransformName = W1_Collider
+		cameraTransformName = Camera_Focus_W1
+	}
+
+	MODULE
+	{
+		name = InternalCameraSwitch
+		colliderTransformName = W2_Collider
+		cameraTransformName = Camera_Focus_W2
+	}
+
+	MODULE
+	{
+		name = InternalCameraSwitch
+		colliderTransformName = W3_Collider
+		cameraTransformName = Camera_Focus_W3
+	}
+
+	MODULE
+	{
+		name = InternalCameraSwitch
+		colliderTransformName = W4_Collider
+		cameraTransformName = Camera_Focus_W4
+	}
+
+	MODULE
+	{
+		name = InternalCameraSwitch
+		colliderTransformName = Console_Collider
+		cameraTransformName = Camera_Focus_Console
+	}
+
+	MODULE
+	{
+		name = InternalCameraSwitch
+		colliderTransformName = DCK_Collider
+		cameraTransformName = Camera_Focus_DCK
+	}
+
+	MODULE
+	{
+		name = InternalCameraSwitch
+		colliderTransformName = MDRight_Collider
+		cameraTransformName = Camera_Focus_MDRight
+	}
+
+	MODULE
+	{
+		name = InternalCameraSwitch
+		colliderTransformName = MDLeft_Collider
+		cameraTransformName = Camera_Focus_MDLeft
+	}
+
+	MODULE
+	{
+		name = InternalCameraSwitch
+		colliderTransformName = DCK_ColliderR
+		cameraTransformName = Camera_Focus_DCKR
+	}
+	MODULE
+	{
+		name = InternalCameraSwitch
+		colliderTransformName = DCK_ColliderL
+		cameraTransformName = Camera_Focus_DCKL
+	}
+	MODULE
+	{
+		name = InternalCameraSwitch
+		colliderTransformName = DCK_ColliderUL
+		cameraTransformName = Camera_Focus_DCKUL
+	}
+	MODULE
+	{
+		name = InternalCameraSwitch
+		colliderTransformName = DCK_ColliderUR
+		cameraTransformName = Camera_Focus_DCKUR
+	}

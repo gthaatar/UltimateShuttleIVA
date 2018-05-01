@@ -42,6 +42,11 @@ v0.02: Second Testing Relz.
 	*New Label props added.
 	*Commander and Pilot Seats moved backwards in preparation for Transform update - KNOWN ISSUE: They do not line up with the transforms, they have not been edited yet.
 	*Further refinement of prop placement across the board
+v0.03: Third Testing Relz
+	*Added Camera Transforms for Docking section, Cmd and Plt seats, as well as farthest port and starboard windows. By clicking on back left and right walls, can view mid-deck from two angles.
+	*Docking Section - Set of controls for docking.
+	*Fixed placement of Window model, should no longer have any gaps.
+	*KNOWN ISSUE: Princibly Docking Section issue, all MAS props do not work while in any camera transform view. Resolution pending research and possible fix to MAS from MoarDV
 	
 
 This is probably where I put a bunch of legal and credit crap. I'm not worried about it right now.
