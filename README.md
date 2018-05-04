@@ -47,6 +47,16 @@ v0.03: Third Testing Relz
 	*Docking Section - Set of controls for docking.
 	*Fixed placement of Window model, should no longer have any gaps.
 	*KNOWN ISSUE: Princibly Docking Section issue, all MAS props do not work while in any camera transform view. Resolution pending research and possible fix to MAS from MoarDV
-	
+v0.04: Fourth Testing Relz
+	*Full Retro Revamp - Rebuilt the IVA from zero. Features -much- better accuracy to the real cockpit as well as better functionality across the board.
+	*Stop-gap measure to enable Docking controls. Docking section's instruments are purely RPM. They can be used, but any issues short of placement issues are -NOT- to be reported, as they won't be fixed or fixable. 
+	*Known Issues: 
+		-CRT Displays upfront are kind of pointless. My next deveopment cycle this weekend wil focus on creating an MFD out of this prop.
+		-Related to above, docking section lacks the accurate CRT it should have. Not adding until I have a proper CRT.
+		-Upper panel switches, buttons, and rotaries have no animation. Need to touch base with MoarDV on syntax for dummy switches in MAS. Are also obviously copied and pasted everywhere. Is being put in the project to space them out semi-randomly in places to make the upper panels a bit more interesting.
+		-FDAI's do not have a back panel currently. Kept running into some strange bug that kept messing up the panels I had. Will try again with it later, but for now deleted to spare the nonsense.
+		-Side "shelves" are kind of bare short of hand holds and Light controls. May or may not populate this with stuff. 
 
+	
+-------
 This is probably where I put a bunch of legal and credit crap. I'm not worried about it right now.
