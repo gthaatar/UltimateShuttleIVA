@@ -33,28 +33,50 @@ Presuming you have the requirements in place, drag and drop UltimateShuttleIVA i
 CHANGELONG:
 
 V0.01: Initial Testing Release
+
 v0.02: Second Testing Relz.
+
 	*Fixed MM Patch, killing IVA bugs across game.
+	
 	*Added Overlay, allowing for better cutaway in external views.
+	
 	*Reconfigured Panels - Comms Panel moved center console. Docking Panel added X-pointer. More useful in-game than a simple RCS hand controller. Turn Coordinator deleted, replaced with Landing Gear Control section. Left and Right most panels angled inward.
+	
 	*Adjusted HUD placements. Provides better downward FOV out of window
+	
 	*Deleted redundant Fuel/Ox gauges on center Gauge panels. Replaced with SRB Gauges
+	
 	*New Label props added.
+	
 	*Commander and Pilot Seats moved backwards in preparation for Transform update - KNOWN ISSUE: They do not line up with the transforms, they have not been edited yet.
+	
 	*Further refinement of prop placement across the board
+	
 v0.03: Third Testing Relz
+
 	*Added Camera Transforms for Docking section, Cmd and Plt seats, as well as farthest port and starboard windows. By clicking on back left and right walls, can view mid-deck from two angles.
+	
 	*Docking Section - Set of controls for docking.
+	
 	*Fixed placement of Window model, should no longer have any gaps.
+	
 	*KNOWN ISSUE: Princibly Docking Section issue, all MAS props do not work while in any camera transform view. Resolution pending research and possible fix to MAS from MoarDV
+	
 v0.04: Fourth Testing Relz
+
 	*Full Retro Revamp - Rebuilt the IVA from zero. Features -much- better accuracy to the real cockpit as well as better functionality across the board.
+	
 	*Stop-gap measure to enable Docking controls. Docking section's instruments are purely RPM. They can be used, but any issues short of placement issues are -NOT- to be reported, as they won't be fixed or fixable. 
+	
 	*Known Issues: 
 		-CRT Displays upfront are kind of pointless. My next deveopment cycle this weekend wil focus on creating an MFD out of this prop.
+		
 		-Related to above, docking section lacks the accurate CRT it should have. Not adding until I have a proper CRT.
+		
 		-Upper panel switches, buttons, and rotaries have no animation. Need to touch base with MoarDV on syntax for dummy switches in MAS. Are also obviously copied and pasted everywhere. Is being put in the project to space them out semi-randomly in places to make the upper panels a bit more interesting.
+		
 		-FDAI's do not have a back panel currently. Kept running into some strange bug that kept messing up the panels I had. Will try again with it later, but for now deleted to spare the nonsense.
+		
 		-Side "shelves" are kind of bare short of hand holds and Light controls. May or may not populate this with stuff. 
 
 	
