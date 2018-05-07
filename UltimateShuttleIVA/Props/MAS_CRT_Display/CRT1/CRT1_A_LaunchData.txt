@@ -1,0 +1,12 @@
+{0,4:0}$&$  fc.Heading()
+{0,3:0}$&$  fc.Pitch()
+{0,4:0}$&$  fc.Roll()
+{0,7:0.0} $&$ fc.Altitude() * 0.001
+{0,7:0.0}   {1:METhh:mm:ss} $&$ fc.Apoapsis() * 0.001;   fc.TimeToAp()
+{0,7:0.0}   {1:METhh:mm:ss} $&$ fc.Periapsis() * 0.001;   fc.TimeToPe()
+{0,6:0.0} $&$ fc.Inclination()
+{0,4:0}       {1,4:0}          $&$ fc.AngleOfAttack(); fc.Sideslip()
+{0,4:0}$&$  fc.StaticPressureKPa()
+{1,9:0.000}               {0:"OBT";"TGT";"SRF"} $&$ fc.GetSASSpeedMode(); fc.DynamicPressure()
+{0,7:0.0} $&$ fc.VerticalSpeed()
+{0,7:0.0}           {1,7:0.0} $&$ fc.SurfaceSpeed(); fc.OrbitSpeed()

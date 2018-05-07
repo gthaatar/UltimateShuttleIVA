@@ -33,7 +33,9 @@ Presuming you have the requirements in place, drag and drop UltimateShuttleIVA i
 CHANGELONG:
 
 V0.01: Initial Testing Release
+
 v0.02: Second Testing Relz.
+
 	*Fixed MM Patch, killing IVA bugs across game.
 	*Added Overlay, allowing for better cutaway in external views.
 	*Reconfigured Panels - Comms Panel moved center console. Docking Panel added X-pointer. More useful in-game than a simple RCS hand controller. Turn Coordinator deleted, replaced with Landing Gear Control section. Left and Right most panels angled inward.
@@ -42,12 +44,16 @@ v0.02: Second Testing Relz.
 	*New Label props added.
 	*Commander and Pilot Seats moved backwards in preparation for Transform update - KNOWN ISSUE: They do not line up with the transforms, they have not been edited yet.
 	*Further refinement of prop placement across the board
+
 v0.03: Third Testing Relz
+
 	*Added Camera Transforms for Docking section, Cmd and Plt seats, as well as farthest port and starboard windows. By clicking on back left and right walls, can view mid-deck from two angles.
 	*Docking Section - Set of controls for docking.
 	*Fixed placement of Window model, should no longer have any gaps.
 	*KNOWN ISSUE: Princibly Docking Section issue, all MAS props do not work while in any camera transform view. Resolution pending research and possible fix to MAS from MoarDV
+
 v0.04: Fourth Testing Relz
+
 	*Full Retro Revamp - Rebuilt the IVA from zero. Features -much- better accuracy to the real cockpit as well as better functionality across the board.
 	*Stop-gap measure to enable Docking controls. Docking section's instruments are purely RPM. They can be used, but any issues short of placement issues are -NOT- to be reported, as they won't be fixed or fixable. 
 	*Known Issues: 
@@ -57,6 +63,16 @@ v0.04: Fourth Testing Relz
 		-FDAI's do not have a back panel currently. Kept running into some strange bug that kept messing up the panels I had. Will try again with it later, but for now deleted to spare the nonsense.
 		-Side "shelves" are kind of bare short of hand holds and Light controls. May or may not populate this with stuff. 
 
+v0.05 Fifth Testing Relz -Tentative FullRetro Release- Requires latest update of MAS!
+
+	*New CRT Displays - RETRO MFD's!
+	*Fixed placement on props in center console.
+	*Docking Controls are now MAS again, as MAS bug has been fixed. CRT Displays have been added to section
+	*New props from NFProps - New Dependency!
+	*New Camera view, nicknamed Glory. To access it, turn your kerbals head towards the back of the pit, and click towards the top of the screen. 
+	*As a result of the new view, the docking view point access has changed slightly. You still turn towards the back, but click towards the floor.
+	*Recover Vessel buttons removed - Buggy
+	
 	
 -------
 This is probably where I put a bunch of legal and credit crap. I'm not worried about it right now.

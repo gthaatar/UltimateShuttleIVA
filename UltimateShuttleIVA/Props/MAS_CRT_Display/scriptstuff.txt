@@ -1,0 +1,24 @@
+		COLLIDER_EVENT
+		{
+			name = ASET_CRT_PRW_SwitchColiderObj
+			collider = ASET_CRT_PRW_SwitchColiderObj
+			onClick = CRT1_TogglePower()
+			sound = ASET/ASET_Props/Sounds/RPB01
+			volume = 1
+		}
+	
+				ANIMATION_PLAYER
+		{
+			name = Switch animation
+			animation = ASET_CRT_PWR_ON_Anim
+			animationSpeed = 1.0
+			variable = fc.GetPersistentAsNumber("CRT1_Power")
+		}
+		COLOR_SHIFT
+		{
+			name = Monitor power-off
+			transform = ASET_CRT_Screen_Obj
+			passiveColor = 0,0,0,255
+			activeColor = 255,255,255,255
+			variable = fc.GetPersistentAsNumber("CRT1_Power")
+		}

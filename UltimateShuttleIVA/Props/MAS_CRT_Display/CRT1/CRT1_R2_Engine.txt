@@ -1,0 +1,9 @@
+﻿ENGINE {1:"ARMED";"FAULT";"OFF  "}  {0,3:0} engines $&$ fc.EngineCountActive(); fc.GetEnginesEnabled() - 2*fc.EngineFlameout()
+Thr:{0,8:0.0}kN $&$ fc.CurrentThrustkN()
+Throttle:{0,3:0}% $&$ fc.GetThrottle() * 100
+
+
+
+Isp:{0,8:0.0}s $&$ fc.CurrentIsp()
+Temp:{0,6:0}°C $&$ fc.HottestEngineTemperature(false)
+ΔV:{0,8:0.0}m/s $&$ fc.DeltaVStage()

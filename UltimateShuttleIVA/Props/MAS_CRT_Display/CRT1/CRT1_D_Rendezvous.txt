@@ -1,0 +1,17 @@
+﻿TARGET:
+Dst:        km
+TAp:        km
+TPe:        km
+RIn:        °
+
+Prx:        m
+
+TAn:
+TDn:
+
+Φ Rel:      °
+ΔV I:      m/s  ΔV F:      m/s
+
+
+Press back to go to
+Maneuver Parameters

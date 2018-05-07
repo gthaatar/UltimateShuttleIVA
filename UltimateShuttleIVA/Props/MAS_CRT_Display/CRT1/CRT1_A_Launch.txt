@@ -1,0 +1,17 @@
+﻿--------
+Hdg    °
+Pit    °
+Rol    °
+ASL       km
+Ap        km
+Pe        km
+Inc       °
+AoA     °   SS     °    
+                        
+SPr          kPa        
+DPr          kPa       Mode    
+VSpd       m/s
+Srf        m/s    Obt        m/s
+
+                G:
+Launch Parameters
