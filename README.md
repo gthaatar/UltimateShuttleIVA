@@ -96,6 +96,16 @@ v0.05 Fifth Testing Relz -Tentative FullRetro Release- Requires latest update of
 	*New Camera view, nicknamed Glory. To access it, turn your kerbals head towards the back of the pit, and click towards the top of the screen. 
 	*As a result of the new view, the docking view point access has changed slightly. You still turn towards the back, but click towards the floor.
 	*Recover Vessel buttons removed - Buggy
+
+v0.06 Sixth Testing Relz -Mr.Glass First Testing Release-
+	
+	*Modern Shuttle IVA variant. Dependencies are the same, simply replace the USIVA-FullRetro config with the USIVA-MrGlass version.
+	*DO NOT TRY TO USE BOTH. Bad things wil happen for sure. Will be looking into way to make it easier to select a version.
+	*Minor corrections to some components of Full Retro.
+	*Weirdly placed text regarding Maneuvers removed from docking page of the CRT Display.
+	*Corrected and modified "Glory" camera view. You still access it from the same place (if you know where to click for the Docking view, click farther below that towards the floor)
+	*Glory Camera view is now moved forward and slightly up, gives much better view point of the bulk of the IVA. For funsies, move the two Kerbals out of the front two seats if you want a pornographic view of the cockpit. Their big heads get in teh way otherwise.
+
 	
 	
 -------
