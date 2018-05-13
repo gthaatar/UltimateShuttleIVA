@@ -1,6 +1,6 @@
-ULTIMATESHUTTLEIVA - Full Retro
+ULTIMATESHUTTLEIVA - Full Retro and Mr. Glass
 
-This is the initial testing version of Full Retro. As should have been stated already, we need to look at prop placement and functionality, efficiency of prop placement for gameplay purposes, and to see where and what other improvements can be made to the design.
+The penultimate Shuttle IVA's. Read the included Flight Manuals for more information.
 ---
 Requirements:
 
@@ -14,7 +14,7 @@ ASET Props and Avionics Packs - https://forum.kerbalspaceprogram.com/index.php?/
 
 https://forum.kerbalspaceprogram.com/index.php?/topic/116479-aset-avionics-pack-v-21-for-the-modders-who-create-iva/
 
-BDB - https://forum.kerbalspaceprogram.com/index.php?/topic/122020-14x-bluedog-design-bureau-stockalike-saturn-apollo-and-more-v142-%D0%B0%D1%82%D0%BB%D0%B0%D1%81-1feb2018/   ( Strictly only need the props folder from BDB for its flight seats. Currently the only good looking seats I could find that were also compact enough to allow for the numerous seats in the cockpit)
+Near Future Props - https://forum.kerbalspaceprogram.com/index.php?/topic/166941-143-near-future-props-prop-assets-for-iva-developers-may-2-2018/
 
 Module Manager
 
@@ -27,7 +27,11 @@ Chatterer
 ---
 Installation:
 
-Presuming you have the requirements in place, drag and drop UltimateShuttleIVA into your Gamedata.  The MM Patch within will set up the internal for the Mk3 Cockpit, and set its crew capacity to 6. 
+1. Install all required Dependencies.
+2. Drag and Drop UltimateShuttleIVA into your Gamedata folder.
+3. Pick and choose only ONE IVA. Either FullRetro or Mr. Glass, and place its respective .cfg into your gamedata folder.
+4. ???
+5. Play with Shuttles till you're bored.
 
 ---
 CHANGELONG:
@@ -106,7 +110,17 @@ v0.06 Sixth Testing Relz -Mr.Glass First Testing Release-
 	*Corrected and modified "Glory" camera view. You still access it from the same place (if you know where to click for the Docking view, click farther below that towards the floor)
 	*Glory Camera view is now moved forward and slightly up, gives much better view point of the bulk of the IVA. For funsies, move the two Kerbals out of the front two seats if you want a pornographic view of the cockpit. Their big heads get in teh way otherwise.
 
+v1.0  Public release! Woop woop!
+	
+	*Several fixes and refinement to Mr. Glass and FullRETRO. Too many to really list out.
+	*Includes rudimentary flight manuals. Gives pertinent info, though don't look great. Lost all will to bother.
 	
 	
 -------
-This is probably where I put a bunch of legal and credit crap. I'm not worried about it right now.
+
+This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
+
+
+Under no circumstance is this mod, or any derivative of it, authorized to be released on CKAN or any other mod management tool without my express written consent.
+
+

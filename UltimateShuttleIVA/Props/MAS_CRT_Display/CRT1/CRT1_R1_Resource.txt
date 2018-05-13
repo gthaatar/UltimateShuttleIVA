@@ -3,13 +3,15 @@ Stg:        kg
 Rt :      kg/s
 Rem:
 
+
 RCS
 Stg:        kg
 Rt :      kg/s
 Rem:
 
+
 POWER
-Bty:
+Qty:
 Rt :
 Rem:
 
@@ -17,3 +19,5 @@ Rem:
 
 
 Resource Parameters
+
+QTY displays dependent on drain of respective resources.
